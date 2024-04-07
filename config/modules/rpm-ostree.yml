@@ -1,0 +1,15 @@
+type: rpm-ostree
+
+install:
+  - libreoffice
+  - virt-install
+  - libvirt-daemon-config-network
+  - libvirt-daemon-kvm
+  - qemu-kvm
+  - virt-manager
+  - virt-viewer
+  - code
+
+remove:
+  - firefox
+  - firefox-langpacks
