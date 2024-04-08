@@ -1,7 +1,9 @@
+# This removes dependencies that give an error when installing steam
 RUN rpm-ostree override remove \
     glibc32 \
     || true
 
+# Reinstall dependices from RPMFusion repo and install steam
 RUN rpm-ostree install \
     glibc.i686 \
     libnsl.i686 \

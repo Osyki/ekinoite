@@ -1,0 +1,17 @@
+[Desktops]
+Name_1=Top Left
+Name_2=Top Right
+Name_3=Bottom Left
+Name_4=Bottom Right
+Number=4
+Rows=2
+
+[Effect-slide]
+HorizontalGap=20
+SlideBackground=false
+
+[ModifierOnlyShortcuts]
+Meta=org.kde.krunner,/App,,toggleDisplay
+
+[Script-desktopchangeosd]
+PopupHideDelay=350
