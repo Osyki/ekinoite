@@ -13,5 +13,5 @@ Window Quick Tile Right=none,Meta+Right,Quick Tile Window to the Right
 Window Quick Tile Top=none,Meta+Up,Quick Tile Window to the Top
 
 [org.kde.spectacle.desktop]
-RectangularRegionScreenShot=Meta+Shift+Print\t,Meta+Shift+Print,Capture Rectangular Region
-_launch=none,Print,Spectacle
+RectangularRegionScreenShot=Print\tMeta+Shift+Print,Meta+Shift+Print,Capture Rectangular Region
+_launch=none,Print,Launch Spectacle

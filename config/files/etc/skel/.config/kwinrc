@@ -10,6 +10,9 @@ Rows=2
 HorizontalGap=20
 SlideBackground=false
 
+[Plugins]
+desktopchangeosdEnabled=true
+
 [ModifierOnlyShortcuts]
 Meta=org.kde.krunner,/App,,toggleDisplay
 
