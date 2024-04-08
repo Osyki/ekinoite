@@ -1,0 +1,15 @@
+[Containments][28][Applets][30][Configuration][General]
+showWindowIcons=true
+
+[Containments][28][Applets][31][Configuration][General]
+showOnlyCurrentActivity=false
+showOnlyCurrentDesktop=false
+
+[Containments][28][Applets][46][Configuration][Appearance]
+autoFontAndSize=false
+customDateFormat=ddd MMM d |
+dateDisplayFormat=BesideTime
+dateFormat=custom
+fontFamily=FiraCode Nerd Font
+fontSize=8
+fontStyleName=Regular
