@@ -7,9 +7,9 @@ system:
     - com.discordapp.Discord
     - com.spotify.Client
     - org.vinegarhq.Vinegar
-    - com.valvesoftware.Steam
     - org.gnome.Boxes
     - us.zoom.Zoom
+    - org.mozilla.firefox
     - io.gitlab.librewolf-community
     - tv.plex.PlexDesktop
     - io.github.dvlv.boxbuddyrs
