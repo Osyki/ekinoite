@@ -7,3 +7,5 @@ RUN rpm-ostree install \
     libnsl.i686 \
     steam \
     steam-devices
+
+RUN ostree container commit

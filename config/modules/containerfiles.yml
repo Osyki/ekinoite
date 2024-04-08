@@ -1,4 +1,4 @@
-type: containerfiles
+type: containerfile
 
 containerfiles:
   - install_steam
