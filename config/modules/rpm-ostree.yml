@@ -9,8 +9,6 @@ install:
   - virt-manager
   - virt-viewer
   - code
-  - steam
-  - steam-devices
 
 remove:
   - firefox

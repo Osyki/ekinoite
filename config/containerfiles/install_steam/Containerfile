@@ -1,0 +1,9 @@
+RUN rpm-ostree override remove \
+    glibc32 \
+    || true
+
+RUN rpm-ostree install \
+    glibc.i686 \
+    libnsl.i686 \
+    steam \
+    steam-devices
