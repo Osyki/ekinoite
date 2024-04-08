@@ -18,3 +18,7 @@ Meta=org.kde.krunner,/App,,toggleDisplay
 
 [Script-desktopchangeosd]
 PopupHideDelay=350
+
+[Xwayland]
+Scale=1
+
