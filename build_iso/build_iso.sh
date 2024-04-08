@@ -2,7 +2,7 @@
 IMAGE_REPO=ghcr.io/osyki
 IMAGE_NAME=ekinoite
 IMAGE_TAG=latest
-IMAGE_VARIANT=Silverblue # should match the variant your image is based on
+IMAGE_VARIANT=Kinoite # should match the variant your image is based on
 # example installer details:
 INSTALLER_VERSION=39
 # iso command:
