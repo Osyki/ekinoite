@@ -1,7 +1,0 @@
-RUN rpm-ostree kargs \
-    --append=rd.driver.blacklist=nouveau \
-    --append=modprobe.blacklist=nouveau \
-    --append=nvidia-drm.modeset=1 \
-    initcall_blacklist=simpledrm_platform_driver_init
-
-RUN ostree container commit
