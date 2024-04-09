@@ -1,4 +1,4 @@
-RUN sudo rpm-ostree kargs \
+RUN rpm-ostree kargs \
     --append=rd.driver.blacklist=nouveau \
     --append=modprobe.blacklist=nouveau \
     --append=nvidia-drm.modeset=1 \
