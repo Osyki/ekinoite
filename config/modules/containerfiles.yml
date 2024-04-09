@@ -2,3 +2,4 @@ type: containerfile
 
 containerfiles:
   - install_steam
+  - nvidia
