@@ -34,7 +34,7 @@ This is a custom image based on [UBlue OS](https://github.com/ublue-os) with NVi
   - Lilex
   - FiraCode
 
----
+
 ## Installation
 
 ### To build the ISO:
@@ -81,7 +81,7 @@ This is a custom image based on [UBlue OS](https://github.com/ublue-os) with NVi
   ```
   systemctl reboot
   ```
----
+
 ## Verification
 
 These images are signed with [Sigstore](https://www.sigstore.dev/)'s [cosign](https://github.com/sigstore/cosign). You can verify the signature by downloading the `cosign.pub` file from this repo and running the following command:
@@ -89,7 +89,7 @@ These images are signed with [Sigstore](https://www.sigstore.dev/)'s [cosign](ht
 ```bash
 cosign verify --key cosign.pub ghcr.io/osyki/ekinoite
 ```
----
+
 ## BlueBuild Template &nbsp; [![build-ublue](https://github.com/blue-build/template/actions/workflows/build.yml/badge.svg)](https://github.com/blue-build/template/actions/workflows/build.yml)
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
