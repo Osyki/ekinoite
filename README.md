@@ -1,4 +1,4 @@
-# Kinoite-Ekyso
+# Ekinoite
 
 This is a custom image based on [UBlue OS](https://github.com/ublue-os) with NVidia image. It includes the following changes:
 
