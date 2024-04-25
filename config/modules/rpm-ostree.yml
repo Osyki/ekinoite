@@ -9,6 +9,7 @@ install:
   - virt-manager
   - virt-viewer
   - code
+  - plasma-workspace-x11
 
 remove:
   - firefox
