@@ -10,10 +10,11 @@ This is a custom image based on [UBlue OS](https://github.com/ublue-os) with NVi
   - Fixed download speeds
   - Steam-devices installed
 - Discord (flatpak)
+- Vesktop (flatpak)
 - Spotify (flatpak)
 - Firefox (flatpak)
 - LibreWolf (flatpak)
-- Vinegar (flatpak)
+- ~~Vinegar (flatpak)~~ (removed due to [issue](https://vinegarhq.org/Home/rol_faq.html))
 - Zoom (flatpak)
 - Boxes (flatpak)
 - BoxBuddy (flatpak)
